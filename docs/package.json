@@ -4,7 +4,7 @@
   "description": "create an app to consume rust-generated wasm packages",
   "main": "index.js",
   "dependencies": {
-    "wasm-game-of-life": "file:../pkg", // Add this line!
+    "wasm-game-of-life": "file:../pkg", 
 },
   "bin": {
     "create-wasm-app": ".bin/create-wasm-app.js"
