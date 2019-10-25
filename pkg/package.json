@@ -1,0 +1,15 @@
+{
+  "name": "my-rust-app-wasm",
+  "collaborators": [
+    "aimee"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "my_rust_app_wasm_bg.wasm",
+    "my_rust_app_wasm.js",
+    "my_rust_app_wasm.d.ts"
+  ],
+  "module": "my_rust_app_wasm.js",
+  "types": "my_rust_app_wasm.d.ts",
+  "sideEffects": "false"
+}
